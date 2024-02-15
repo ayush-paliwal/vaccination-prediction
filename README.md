@@ -1,3 +1,3 @@
 # vaccination-prediction
 this is my first project
-this is about vaccine
+this is about prediction using ml
